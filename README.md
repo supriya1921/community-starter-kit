@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Hello ProBot App. This is a wonderful way of learning github.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+I guides through the entire learning of open source.
 
 ## Getting started
 
